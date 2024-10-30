@@ -6,3 +6,6 @@ Why did I make it? I was bored
 <p align="center">
   <img src="https://github.com/Space-00/String/blob/main/SharedScreenshot.jpg" alt="img" width="200" height="200">
 </p>
+
+
+should I make it follow you on desktop? if so, open an issue and tell me
