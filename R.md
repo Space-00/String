@@ -18,7 +18,7 @@ Guys I need your feedbacks and ideas or any suggestion, so tell me about them [h
 
 Ronime doesn't host anything, not a single anime, not even the covers, nothing
 
-# ⚠ Important :
+# ⚠ Important ⚠ :
 
 • You will see a random anime image whenever you run Ronime and whenever you search for something but no result is found
 
