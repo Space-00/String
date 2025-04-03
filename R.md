@@ -12,8 +12,6 @@ Get Ronime from here: [Download](https://github.com/Space-00/Ronime)
 
 Guys I need your feedbacks and ideas or any suggestion, so tell me about them [here](https://github.com/Space-00/Ronime/issues) , thank you in advance cause I'm a solo developer for this app and I need you guys' feddbacks to make it better
 
-[Ronime notes](https://github.com/Space-00/Ronime/blob/main/Version.md)
-
 # ❗ Disclaimer ❗ :
 
 Ronime doesn't host anything, not a single anime, not even the covers, nothing
@@ -26,7 +24,7 @@ Ronime doesn't host anything, not a single anime, not even the covers, nothing
 
 • Download for FREE
 
-• If you see any bugs, I'm sure you won't but if you do then go here and open an issue
+• If you see any bugs, I'm sure you won't but if you do then go [here](https://github.com/Space-00/Ronime/issues) and open an issue
 
 🍿 Streaming 🍿 - Unfortunately Ronime can't stream an anime YET, I'll add this feature in the future
 
