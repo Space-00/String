@@ -37,11 +37,11 @@ Ronime doesn't host anything, not a single anime, not even the covers, nothing
 Screenshots of Ronime :
 
 <p align="center">
-  <img src="https://github.com/Space-00/Ronime/blob/main/Screenshots/o1.jpg" alt="App Screenshot">
+  <img src="https://github.com/Space-00/Ronime/blob/main/Screenshots/1.jpg" alt="App Screenshot">
 </p>
 
 <p align="center">
-  <img src="https://github.com/Space-00/Ronime/blob/main/Screenshots/o2.jpg" alt="App Screenshot">
+  <img src="https://github.com/Space-00/Ronime/blob/main/Screenshots/2.jpg" alt="App Screenshot">
 </p>
 
 Made by Reza
