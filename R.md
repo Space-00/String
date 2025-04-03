@@ -20,7 +20,7 @@ Ronime doesn't host anything, not a single anime, not even the covers, nothing
 
 # ⚠ Important :
 
-• Ronime doesn't host anything, not a single anime, not even the covers, nothing
+• You will see a random anime image whenever you run Ronime and whenever you search for something but no result is found
 
 • You can find new anime on Ronime when they're released, Ronime is up to date
 
