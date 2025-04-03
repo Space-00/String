@@ -21,6 +21,7 @@ Ronime doesn't host anything, not a single anime, not even the covers, nothing
 # ⚠ Important :
 
 • Ronime doesn't host anything, not a single anime, not even the covers, nothing
+
 • You can find new anime on Ronime when they're released, Ronime is up to date
 • Download for FREE
 • If you see any bugs, I'm sure you won't but if you do then go here and open an issue
