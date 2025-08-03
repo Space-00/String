@@ -25,7 +25,7 @@ You can download Ronime from releases' page: [here](https://github.com/Space-00/
 **What I'm gonna add in the future:** 💥
 --------------------
 
-I'll add theme changer so that you can change app theme
+I'll add theme changer option
 
 what else? idk now honestly, let's see what happens
 
