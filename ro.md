@@ -20,12 +20,18 @@ Ronime is a windows app which lets you stream or download anime for free
 
 • This is the first release of Ronime, if you see any bugs, I'm sure you won't but if you do then open an [issue](https://github.com/Space-00/Ronime/issues)
 
-**Sources:**
+**Sources and code:**
 --------------------
 
 You will see a new anime image whenever you run the app, the source is [Nekos](https://nekosapi.com/) which is an open-source anime image provider through API
 
 The animes that are in the app are from somewhere that everyone knows where (you just need to use the app once and then you'll know), so cross that out ❌ we won't talk about that
+
+Where is Ronime's source code? at the back of 👇🏻truck-kun👇🏻
+
+<p align="center">
+    <img src="https://pic.bstarstatic.com/ugc/1fd86ae141911432b4e968366f46c508.jpeg" alt="Description" width="650"/>
+</p>
 
 ◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾
 
