@@ -54,4 +54,4 @@ Image 2
     <img src="2" alt="Description" width="250"/>
 </p>
 
-Developed by [Reza](https://github.com/Space-00)
+**👩🏻‍💻Programmed by**: [Reza](https://github.com/Space-00)
