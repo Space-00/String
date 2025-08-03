@@ -6,13 +6,13 @@
   <strong><span style="font-size:50px;">Ronime</span></strong>
 </p>
 
-**What is Ronime?**
+**What is Ronime?** 🤔
 --------------------
 Ronime is a windows app which lets you stream or download anime for free
 
 You can download Ronime from releases: [here](https://github.com/Space-00/Ronime/releases)
 
-**Important:**
+**Important:** 🧐
 --------------------
 • Ronime doesn't host anything, not a single anime, not even the covers, nothing
 
@@ -23,7 +23,7 @@ You can download Ronime from releases: [here](https://github.com/Space-00/Ronime
 • This is the first release of Ronime, if you see any bugs, I'm sure you won't but if you do then open an [issue](https://github.com/Space-00/Ronime/issues)
 
 
-**Sources and code:**
+**Sources and code:** 0️⃣1️⃣
 --------------------
 
 You will see a new anime image whenever you run the app, the source is [Nekos](https://nekosapi.com/) which is an open-source anime image provider through API
