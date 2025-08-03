@@ -22,6 +22,12 @@ You can download Ronime from releases: [here](https://github.com/Space-00/Ronime
 
 • This is the first release of Ronime, if you see any bugs, I'm sure you won't but if you do then open an [issue](https://github.com/Space-00/Ronime/issues)
 
+**What I'm gonna add in the future:** 💥
+--------------------
+
+I'll add theme changer so that you can change app theme
+
+what else? idk now honestly, let's see what happens
 
 **Sources and code:** 0️⃣1️⃣
 --------------------
