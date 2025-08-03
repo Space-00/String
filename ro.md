@@ -20,6 +20,10 @@ Ronime is a windows app which lets you stream or download anime for free
 
 • This is the first release of Ronime, if you see any bugs, I'm sure you won't but if you do then open an [issue](https://github.com/Space-00/Ronime/issues)
 
+
+You can download anime from releases: [here](https://github.com/Space-00/Ronime/releases)
+
+
 **Sources and code:**
 --------------------
 
